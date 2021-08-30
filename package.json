@@ -1,0 +1,23 @@
+{
+  "name": "pm2-background-run",
+  "version": "1.0.0",
+  "description": "A sample project to test pm2 background running on a windows server 2012",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biliboss/pm2-background-run.git"
+  },
+  "keywords": [
+    "pm2",
+    "sample"
+  ],
+  "author": "Gabriel Fonseca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/biliboss/pm2-background-run/issues"
+  },
+  "homepage": "https://github.com/biliboss/pm2-background-run#readme"
+}
